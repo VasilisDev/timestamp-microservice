@@ -18,7 +18,7 @@
         $ npm install  
         $ node server.js
          ```
-   <p>Live Demo: https://pepper-line.glitch.me/</p>
+   Live Demo: https://pepper-line.glitch.me/
        
      
       
