@@ -14,13 +14,11 @@
         </code>
           </li>
         </ul>
-        <code>
-        $ npm install<br>
-        </code>
-        <code>
+        ```
+        $ npm install  
         $ node server.js
-        </code>
-   Live Demo: https://pepper-line.glitch.me/     
+         ```
+   <p>Live Demo: https://pepper-line.glitch.me/</p>
        
      
       
