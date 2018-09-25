@@ -16,6 +16,8 @@
         </ul>
         <code>
         $ npm install<br>
+        </code>
+        <code>
         $ node server.js
         </code>
    Live Demo: https://pepper-line.glitch.me/     
