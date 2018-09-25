@@ -15,6 +15,7 @@
           </li>
         </ul>
          <ul>
+        How to run it:
           <li>
          <code>
          $ npm install
