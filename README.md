@@ -7,9 +7,21 @@
           <li><code>GET[project url]/api/timestamp/1451001600000</code></li>
         </ul>
         Example Output:
-        <code>
+          <ul>
+          <li>
+         <code>
           {"unix":1451001600000,"natural":"December 25, 2015"}
         </code>
+          </li>
+        </ul>
+        <code>
+        $ npm install
+        $ node server.js
+        </code>
+   Live Demo: <https://pepper-line.glitch.me/>     
+       
+     
+      
           
 
       
