@@ -15,10 +15,10 @@
           </li>
         </ul>
         <code>
-        $ npm install
+        $ npm install<br>
         $ node server.js
         </code>
-   Live Demo: <https://pepper-line.glitch.me/>     
+   Live Demo: https://pepper-line.glitch.me/     
        
      
       
